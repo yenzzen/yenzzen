@@ -1,16 +1,12 @@
-### Olá, eu sou o João Marcos (yenzzen)
-
-#### Engenheiro de Software Full-Stack | Estudante de Ciência da Computação - UTFPR
+#### Olá, eu sou o João Marcos (yenzzen), Engenheiro de Software Full-Stack | Estudante de Ciência da Computação - UTFPR
 <br>
 
 Sou um desenvolvedor focado em construir ferramentas que resolvem problemas reais de infraestrutura e governança. Não apenas uso frameworks; eu os estudo e, quando necessário, crio as minhas próprias alternativas para extrair o máximo de performance e eficiência.
 <br>
 
 ---
-<br>
 
-### O que estou construindo agora
-<br>
+<h3 align="center">O que estou construindo agora</h3>
 
 #### [Kwo](https://github.com/yenzzen/kwo-showcase) — Governança de Código via IA
 Plataforma que permite a Tech Leads definirem regras de arquitetura em **linguagem natural**, aplicando-as em tempo real diretamente no IDE dos desenvolvedores.
