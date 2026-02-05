@@ -1,7 +1,7 @@
-#### Olá, eu sou o João Marcos (yenzzen), Engenheiro de Software Full-Stack | Estudante de Ciência da Computação - UTFPR
+#### João Marcos (yenzzen) | Engenheiro de Software Full-Stack
 <br>
 
-Sou um desenvolvedor focado em construir ferramentas que resolvem problemas reais de infraestrutura e governança. Não apenas uso frameworks; eu os estudo e, quando necessário, crio as minhas próprias alternativas para extrair o máximo de performance e eficiência.
+Desenvolvedor focado em construir ferramentas que resolvem problemas reais de infraestrutura e governança. Especialista em ir além do uso de frameworks, estudando seus internos e criando soluções personalizadas para máxima performance e eficiência.
 <br>
 
 ---
@@ -10,6 +10,9 @@ Sou um desenvolvedor focado em construir ferramentas que resolvem problemas reai
 * **Linguagens:** Go, TypeScript, SQL
 * **Frontend:** React 19, Next.js, TailwindCSS
 * **Backend & Infra:** SQLite, Supabase, AWS S3, esbuild
+<br>
+
+---
 <br>
 
 ### Projetos
