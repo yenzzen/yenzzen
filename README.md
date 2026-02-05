@@ -5,6 +5,7 @@ Desenvolvedor focado em construir ferramentas que resolvem problemas reais de in
 <br>
 
 ---
+<br>
 
 ### Tecnologias
 * **Linguagens:** Go, TypeScript, SQL
