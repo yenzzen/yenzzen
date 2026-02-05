@@ -6,7 +6,7 @@ Sou um desenvolvedor focado em construir ferramentas que resolvem problemas reai
 
 ---
 
-<h3 align="center">O que estou construindo agora</h3>
+<h3 align="center">Projetos</h3>
 
 #### [Kwo](https://github.com/yenzzen/kwo-showcase) — Governança de Código via IA
 Plataforma que permite a Tech Leads definirem regras de arquitetura em **linguagem natural**, aplicando-as em tempo real diretamente no IDE dos desenvolvedores.
